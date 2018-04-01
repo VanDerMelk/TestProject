@@ -1,15 +1,5 @@
 # TestProject
 
-Holy sh..
-
-I've changed this with nano!
-
-atatatata
-
-psapsapsa
-
-
-MERGE!!!!
-
-
-aatatata
+A test project I've created and changed in many different ways during my first lesson 
+of 
+AutoQA.
